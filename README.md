@@ -15,7 +15,6 @@ That changed when I started working at MALF, doing a lot of bureaucratic activit
 When I ran my first code and it worked I felt I had superpowers! Since then I've never stopped learning new technologies and wondering how to use them to make my day more productive. This is me, I will always try to implement some code to [automate boring stuffs](https://automatetheboringstuff.com/).
 
 
-1
 ![rbkrebs Status](https://github-readme-stats.vercel.app/api?username=rbkrebs&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbkrebs&layout=compact&theme=radical)](https://github.com/rbkrebs/github-readme-stats)
