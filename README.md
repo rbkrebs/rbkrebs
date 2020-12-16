@@ -8,7 +8,7 @@
 - :martial_arts_uniform: Fun fact: I'm a black belt 3rd of Shotokan Karate!!
 
 
-:man_technologist: I've been learning coding since 2015. Beafore that I used to hate computers, really!! :stuck_out_tongue_closed_eyes:
+:man_technologist: I've been learning coding since 2015. Before that I used to hate computers, really!! :stuck_out_tongue_closed_eyes:
 
 
 That changed when I started working at Ministry of Agriculture, doing a lot of bureaucratic activities. I realized most of them could be automated with a few lines of code using VBA.
