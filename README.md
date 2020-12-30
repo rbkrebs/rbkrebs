@@ -5,7 +5,7 @@
 - :corn: I’m currently working on Ministry of Agriculture, Livestock and Food Supply as a laboratorian technician
 - :telescope: I’m currently looking for a remote job as a software developer
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/romulo-krebs/)
-- :martial_arts_uniform: Fun fact: I'm a black belt 3rd of Shotokan Karate!!
+- :martial_arts_uniform: Fun fact: I'm a black belt 3rd Dan of Shotokan Karate!!
 
 
 :man_technologist: I've been learning coding since 2015. Before that I used to hate computers, really!! :stuck_out_tongue_closed_eyes:
