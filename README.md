@@ -2,8 +2,7 @@
 
 
 
-- :corn: I’m currently working on Ministry of Agriculture, Livestock and Food Supply as a laboratorian technician
-- :telescope: I’m currently looking for a remote job as a software developer
+- 💻: Working as iOS Developer at Zup Innovation
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/romulo-krebs/)
 - :martial_arts_uniform: Fun fact: I'm a black belt 3rd Dan of Shotokan Karate!!
 
