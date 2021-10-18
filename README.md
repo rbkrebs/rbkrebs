@@ -2,7 +2,7 @@
 
 
 
-- 💻: Working as iOS Developer at Zup Innovation
+- 💻 Working as iOS Developer at [Zup Innovation](https://www.zup.com.br/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/romulo-krebs/)
 - :martial_arts_uniform: Fun fact: I'm a black belt 3rd Dan of Shotokan Karate!!
 
