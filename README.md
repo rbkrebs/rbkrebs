@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Working as iOS Developer at [Compass.UOL](https://www.compass.uol/)
+- 💻 A fullstack and mobile developer
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/romulo-krebs/)
 - :martial_arts_uniform: I'm a black belt 3rd Dan of Shotokan Karate!!
 - :man_technologist: I've been learning coding since 2015
